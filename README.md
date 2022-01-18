@@ -1,4 +1,6 @@
-# Ola eu sou o Elvis Leite
+# Ola! eu sou o Elvis Leite
+#### Espero que gostem dos conteúdos 😉
+####  Se quiser entrar em contato, me manda um e-mail e vamos formar uma equipe!
 
 <div align="center">
   <a href="https://github.com/elvis7t">
