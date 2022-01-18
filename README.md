@@ -1,5 +1,5 @@
 # Ola! eu sou o Elvis Leite
-#### Espero que gostem dos conteúdos 😉
+## Apaixona por tecnologia
 ####  Se quiser entrar em contato, me manda um e-mail e vamos formar uma equipe!
 
 <div align="center">
