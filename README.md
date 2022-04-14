@@ -10,13 +10,73 @@
 
 > Tools, languages, and other things that I like to work with.
 
-  <img align="center" alt="Elvis-PHP" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Elvis-Boostrap" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Elvis-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">  
-  <img align="center" alt="Elvis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="Elvis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Elvis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="Elvis-node" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">  
+  <table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img align="center" alt="PHP" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+      </a>
+      <br>PHP
+    </td>  
+    <td align="center" width="96">
+        <a href="#macropower-tech" >      
+          <img align="center" alt="Boostrap" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+        </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <a href="#macropower-tech" >   
+          <img align="center" alt="Laravel" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">  
+        </a>
+      <br>Laravel
+    </td> 
+    <td align="center" width="96">
+      <a href="#macropower-tech" >   
+            <img align="center" alt="Js" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+          </a>
+      <br>JS
+    </td>   
+    <td align="center" width="96">
+      <a href="#macropower-tech" >     
+          <img align="center" alt="HTML" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+       </a>
+      <br>HTML
+    </td>    
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img align="center" alt="CSS" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+       <a href="#macropower-tech" >     
+          <img align="center" alt="Node" width="48" height="48"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+       </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >        
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="48" height="48" alt="Mysql"/>       
+      </a>
+      <br>Mysql
+    </td>
+  </tr>
+</table>
+    
+    
+    
 <!--   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
  
 <!--   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
