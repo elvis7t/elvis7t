@@ -1,8 +1,6 @@
-# Hello! I'm Elvis Leite
-#### If you want to get in touch, send me an email and let's form a team!
-
 <div align="center">
-  <a href="https://github.com/elvis7t">
+  <a href="https://github.com/elvis7t"><img src="https://readme-typing-svg.herokuapp.com?color=3BAEF7&lines=Hello!+I'm+Elvis+Leite+%7C+Web+Developer;Welcome+to+my++Github;If+you+want+to+get+in+touch;send+me+an+email+and+let's+form+a+team!;&center=true&width=800&height=55"></a>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elvis7t&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis7t&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
