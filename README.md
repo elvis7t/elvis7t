@@ -1,5 +1,5 @@
-# Ola! eu sou o Elvis Leite
-####  Se quiser entrar em contato, me manda um e-mail e vamos formar uma equipe!
+# Hello! I'm Elvis Leite
+#### If you want to get in touch, send me an email and let's form a team!
 
 <div align="center">
   <a href="https://github.com/elvis7t">
