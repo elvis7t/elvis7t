@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/elvis7t"><img src="https://readme-typing-svg.herokuapp.com?size=34&duration=5200&width=610&height=80&lines=Hello!+I'm+Elvis+%7C+Web+Developer;Welcome+to+My+Github!;If+you+want+to+get+in+touch+;send+me+an+email+and;+let's+form+a+team!;&center=true&width=800&height=55"></a>
+  <a href="https://github.com/elvis7t"><img src="https://readme-typing-svg.herokuapp.com?size=34&duration=5100&width=610&height=80&lines=Hello!+I'm+Elvis+%7C+Web+Developer;Welcome+to+My+Github!;If+you+want+to+get+in+touch+;send+me+an+email+and;+let's+form+a+team!;&center=true&width=800&height=55"></a>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elvis7t&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis7t&layout=compact&langs_count=7&theme=cobalt"/>
