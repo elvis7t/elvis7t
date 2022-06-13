@@ -4,6 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elvis7t&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis7t&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
+
 <h2 align="left" id="macropower-tech">Current Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
@@ -89,7 +90,9 @@
  <a href="https://discord.gg/BehZvTGfPB" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:elvis7t@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elvis-leite-da-silva-b2417055/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  
+  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=elvis7t.visitor-badge&left_color=red&right_color=green&left_text=Number%20of%20Visitors)
+  
   ![Snake animation](https://github.com/elvis7t/elvis7t/blob/output/github-contribution-grid-snake.svg)
  
 </div>
