@@ -91,7 +91,7 @@
   <a href = "mailto:elvis7t@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elvis-leite-da-silva-b2417055/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=elvis7t.visitor-badge&left_color=red&right_color=green&left_text=Number%20of%20Visitors)
+  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=elvis7t.visitor-badge&left_color=blue&right_color=green&left_text=Number%20of%20Visitors)
   
   ![Snake animation](https://github.com/elvis7t/elvis7t/blob/output/github-contribution-grid-snake.svg)
  
