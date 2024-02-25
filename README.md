@@ -18,56 +18,56 @@
       <br>PHP
     </td>  
     <td align="center" width="96">
-        <a href="#macropower-tech" >      
-          <img align="center" alt="Boostrap" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-        </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
         <a href="#macropower-tech" >   
-          <img align="center" alt="Laravel" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">  
+          <img align="center" alt="Yii2" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yii/yii-original.svg">  
         </a>
-      <br>Laravel
+      <br>Yii2
     </td> 
-    <td align="center" width="96">
+     <td align="center" width="96">
       <a href="#macropower-tech" >   
             <img align="center" alt="Js" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
           </a>
       <br>JS
-    </td>   
+    </td>  
+     <td align="center" width="96">
+       <a href="#macropower-tech" >     
+          <img align="center" alt="Node" width="48" height="48"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+       </a>
+      <br>NodeJS
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Type
+    </td>
+    <td align="center" width="96">
+        <a href="#macropower-tech" >      
+          <img align="center" alt="Boostrap" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg">
+        </a>
+      <br>React
+    </td>        
     <td align="center" width="96">
       <a href="#macropower-tech" >     
-          <img align="center" alt="HTML" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+          <img align="center" alt="HTML" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
        </a>
-      <br>HTML
+      <br>Kotlin
     </td>    
     <td align="center" width="96">
       <a href="#macropower-tech" >
         <img align="center" alt="CSS" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
       </a>
       <br>CSS
-    </td>
-    <td align="center" width="96">
-       <a href="#macropower-tech" >     
-          <img align="center" alt="Node" width="48" height="48"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-       </a>
-      <br>NodeJS
-    </td>
+    </td>   
     <td align="center" width="96"> 
       <a href="#macropower-tech" >        
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
-    </td>
+    </td>   
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="48" height="48" alt="Mysql"/>       
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="Mysql"/>       
       </a>
       <br>Mysql
     </td>
@@ -93,6 +93,6 @@
   
   <!--[visitor badge](https://visitor-badge.glitch.me/badge?page_id=elvis7t.visitor-badge&left_color=blue&right_color=green&left_text=Number%20of%20Visitors)-->
   
-  ![Snake animation](https://github.com/elvis7t/elvis7t/blob/output/github-contribution-grid-snake.svg)
+  <!--![Snake animation](https://github.com/elvis7t/elvis7t/blob/output/github-contribution-grid-snake.svg)-->
  
 </div>
