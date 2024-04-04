@@ -3,6 +3,8 @@
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elvis7t&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis7t&layout=compact&langs_count=7&theme=cobalt"/>
+  <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
+
 </div>
 
 <h2 align="left" id="macropower-tech">Current Tech</h2>
@@ -93,6 +95,6 @@
   
   <!--[visitor badge](https://visitor-badge.glitch.me/badge?page_id=elvis7t.visitor-badge&left_color=blue&right_color=green&left_text=Number%20of%20Visitors)-->
   
-  <!--![Snake animation](https://github.com/elvis7t/elvis7t/blob/output/github-contribution-grid-snake.svg)-->
+  [Snake animation](https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg)
  
 </div>
